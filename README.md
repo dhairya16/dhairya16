@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhairya Savlekar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 💬 Ask me about **React, SpringBoot, Kafka, Node, Django, Vue**
+- 💬 Ask me about **React, SpringBoot, Kafka, Node, Django, Vue, Python**
 
 - 📫 How to reach me **dhairyasavlekar16@gmail.com**
 
